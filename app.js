@@ -246,7 +246,6 @@ data.forEach(team => {
         }
         j += 1;
     }
-    console.log(s);
     tbody.innerHTML += '<tr class="want-hover">' + s + '</tr>';
 })
 
