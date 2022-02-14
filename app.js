@@ -1,7 +1,7 @@
 const data = [
     ['Team Amigos', 'Amruta Misal', 'Nachiket Suryawanshi', 'Vaishnavi Kondewar'],
     ['Blue Peace', 'Sourav Yewale', 'Shruti Jangalgi', 'Parth Suryawanshi', 'Ishwar Bidarkar'],
-    ['Defenders', 'KaushaL Gawas', 'Sainath BALKAWADE'],
+    ['Defenders', 'KaushaL Gawas', 'Sainath Balkawade'],
     ['Hawks', 'Prathamesh Yadav', 'Anish Dubey', 'Himanshu Wankar'],
     ['Hydroponic and Aquaponics', 'Pranav Khamkar', 'Kewal Parekh', 'Nikhil Jadhav'],
     ['Mind Install',
