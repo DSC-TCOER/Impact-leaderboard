@@ -229,7 +229,7 @@ td {
   background-color: #fff;
   color: black;
   border-radius: 15px;
-  width: 25rem;
+  max-width: 20rem;
   padding: 1rem 2rem;
   margin: auto;
   margin-bottom: 3rem;
