@@ -91,7 +91,7 @@ const data = [
         'Chandan Patil'
     ],
     [4, 'Change Creators',
-        'Rocky Plays',
+        'Rushi Pol',
         'Omkar Mahangare',
         'Harshikesh shinde',
         'Pranjali Nalawade'
