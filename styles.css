@@ -156,11 +156,17 @@ header video {
 
 
 
+.search-note {
+  max-width: 20rem;
+  text-align: center;
+  margin: auto;
+  margin-block: 2rem;
+  color: #c4c4c4;
+}
 
 table {
   width: 80%;
   margin: auto;
-  margin-top: 2rem;
 }
 
 table thead {
@@ -192,6 +198,7 @@ td {
   display: flex;
   justify-content: space-around;
   text-align: center;
+  margin-top: 2rem;
 }
 
 .counts div {
@@ -211,7 +218,7 @@ td {
 }
 
 .zoom-hover:hover {
-  cursor: pointer;
+  cursor: none;
   transform: scale(1.05);
   transition-timing-function: cubic-bezier(0.49, 0.08, 0.54, 1.42);
   background-color: #EA4335;
